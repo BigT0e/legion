@@ -2,7 +2,11 @@
 
 This is a project to communicate with multiple characters played by AI through command line. Developed and tested on Windows.
 
+The project is inspired by Mr.Robot, Legion, EVA and other works. 80% of the code is completed through Curosr + Claude 3.7 Sonnet.
+
 ## Design
+
+<img src="./design.png" width="100%"/>
 
 ## Prerequisites
 
